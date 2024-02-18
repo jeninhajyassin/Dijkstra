@@ -1,0 +1,26 @@
+11 14
+eng 432 800
+pharmacy 540 380
+art 390 440
+it 860 315
+za3ne 900 344
+tarbeya 877 383
+7oqoq 865 425
+3olom 910 900
+business 1337 632
+mojama3 730 630
+adab 680 444
+it za3ne 20
+it pharmacy 120
+pharmacy art 110
+pharmacy adab 120
+adab mojama3 150
+za3ne tarbeya 30
+tarbeya 7oqoq 45
+mojama3 business 300
+business 3olom 180
+3olom eng 83
+eng mojama3 50
+eng art 400
+mojama3 7oqoq 100
+3olom mojama3 120
